@@ -1,3 +1,5 @@
+; this is my model and I am testing it ;)
+
 to setup
   clear-all
   create-turtles 10 [
